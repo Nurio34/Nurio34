@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nuri Salih Ersoy</h1>
 <h3 align="center">A passionate frontend developer from Istanbul,TURKEY</h3>
-
+<img align="right" alt="Funny Coding gif" width="400" src="https://media.tenor.com/i3lImBg2UEQAAAAd/scaler-create-impact.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurio34&label=Profile%20views&color=0e75b6&style=flat" alt="nurio34" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurio34" alt="nurio34" /></a> </p>
