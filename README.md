@@ -1,3 +1,5 @@
+<img align="right" alt="MERN Developer" width="100%" height="400" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg">
+
 <h1 align="center">Hi 👋, I'm Nuri Salih Ersoy</h1>
 <h3 align="center">A passionate frontend || full-stack developer from Turkey</h3>
 
@@ -21,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurio34&show_icons=true&locale=en" alt="nurio34" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurio34&" alt="nurio34" /></p>
