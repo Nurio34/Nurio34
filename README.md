@@ -9,28 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/nurioonsoftware" target="blank"><img src="https://img.shields.io/twitter/follow/nurioonsoftware?logo=twitter&style=for-the-badge" alt="nurioonsoftware" /></a> </p>
 
-- 🔭 I’m currently working on [project A](link A)
-
-- 🌱 I’m currently learning **Accessibility**
-
-- 👯 I’m looking to collaborate on [project B](link B)
-
-- 🤝 I’m looking for help with [name A](link C)
-
-- 👨‍💻 All of my projects are available at [link D](link D)
-
-- 📝 I regularly write articles on [link E](link E)
-
-- 💬 Ask me about **Semantic HTML, Accessibilty, Css, Sass, Javascript**
-
-- 📫 How to reach me **nurioonsoftware@gmail.com**
-
-- 📄 Know about my experiences [link F](link F)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nurio34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nurio34" height="30" width="40" /></a>
